@@ -16,7 +16,7 @@ import { Alert } from "react-native-web";
 import Data from "./Component/Data";
 import Crud from "./Component/Crud";
 
-import Crud2 from "./Component/Crud2";
+import Crud2 from "./screens/Crud2";
 
 export default function App() {
   const [add, setAdd] = useState({

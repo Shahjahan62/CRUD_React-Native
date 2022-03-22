@@ -3,6 +3,9 @@ import React from "react";
 import Icon from "react-native-vector-icons/MaterialIcons";
 
 const Data = (props) => {
+  // let edit=user;
+  // edit([...edit])=add;
+
   return (
     <SafeAreaView>
       <View

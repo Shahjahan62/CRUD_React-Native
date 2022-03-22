@@ -178,14 +178,15 @@ const styles = StyleSheet.create({
     borderRadius: 5,
   },
   Button: {
-    width: 70,
-    height: 45,
+    width: 150,
+    height: 55,
     marginTop: 20,
     marginRight: 10,
     backgroundColor: "#1E90FF",
     justifyContent: "center",
     alignItems: "center",
-    borderRadius: 5,
+    borderRadius: 50,
+    elevation: 20,
   },
 });
 
